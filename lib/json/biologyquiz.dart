@@ -1,0 +1,100 @@
+var biologydata = {
+  "total_size": 4,
+  "questions": [
+    {
+      "id": 1,
+      "question":
+          "Who was the first scientist to coin the term SMOG and to describe the layers of SMOG?",
+      "option1": "Nikola Tesla",
+      "option2": " Stephen Hawking",
+      "option3": "Dr Henry Antoine",
+      "option4": "Nicolaus Copernicus",
+      "ans": "c",
+    },
+    {
+      "id": 2,
+      "question": "The major photochemical smog is?",
+      "option1": "Hydrogen peroxide",
+      "option2": "Chlorofluorocarbon",
+      "option3": "Peroxyacetyl nitrate",
+      "option4": "All of the above",
+      "ans": "b",
+    },
+    {
+      "id": 3,
+      "question": "DDT and Aluminium cans are examples of",
+      "option1": "Primary Pollutants",
+      "option2": "Secondary pollutants",
+      "option3": "Biodegradable Pollutants",
+      "option4": "Non-Biodegradable",
+      "ans": "d",
+    },
+    {
+      "id": 4,
+      "question": "Increased levels of air pollution results in ?",
+      "option1": "Soil erosion",
+      "option2": "Global warming",
+      "option3": "Respiratory problems",
+      "option4": "All of the above",
+      "ans": "c",
+    },
+    {
+      "id": 5,
+      "question": "Which of the following produces citric acid?",
+      "option1": "Aspergillus",
+      "option2": "Pseudomonas",
+      "option3": "Saccharomyces",
+      "option4": " Clostridium",
+      "ans": "a",
+    },
+    {
+      "id": 6,
+      "question":
+          "Which of the following microorganisms is not used as a biofertilizer?",
+      "option1": "Rhizobium",
+      "option2": "Nostoc",
+      "option3": "Mycorrhiza",
+      "option4": "Agrobacterium",
+      "ans": "d",
+    },
+    {
+      "id": 7,
+      "question":
+          "Which of the following organisms is used in alcoholic fermentation?",
+      "option1": "Pseudomonas",
+      "option2": "Aspergillus",
+      "option3": "Saccharomyces",
+      "option4": "Penicillium",
+      "ans": "c",
+    },
+    {
+      "id": 8,
+      "question":
+          "A common biopesticide for preventing plants from butterfly caterpillars is ?",
+      "option1": "Trichoderma",
+      "option2": "Baculovirus",
+      "option3": "Glomus",
+      "option4": "Bacillus thuringiensis",
+      "ans": "d",
+    },
+    {
+      "id": 9,
+      "question": "Yeast is used for the production of?",
+      "option1": "Tetracycline",
+      "option2": "Butanol",
+      "option3": "Ethanol",
+      "option4": "Citric Acid",
+      "ans": "c",
+    },
+    {
+      "id": 9,
+      "question":
+          "Which of the following is used as a biofertilizer for soyabean crop?",
+      "option1": "Rhizobium",
+      "option2": "Azotobacter",
+      "option3": "Nostoc",
+      "option4": " Azospirillum",
+      "ans": "a",
+    },
+  ]
+};
